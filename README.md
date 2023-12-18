@@ -1,2 +1,3 @@
-# Final-Project
-Weeks of Pain by Muhammad Mahdi, Andrew Minerva, and Graham Smith
+# Weeks of Pain
+Muhammad Mahdi, Andrew Minerva, and Graham Smith
+
