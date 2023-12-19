@@ -31,4 +31,7 @@ We used this tutorial to code the binary search partitioning algorithm.
 https://www.youtube.com/watch?v=f473C43s8nE
 We used this tutorial to create the enemy AI.
 
+https://www.youtube.com/watch?v=L3wKzyIN1yk
+This is the song that plays when the enemies get too close.
+
 Included in this website are all of the scripts we used for our game. 
