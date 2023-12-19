@@ -25,11 +25,11 @@ While our method of generating dungeon rooms is very similar to the state-of-the
 To expand our project, we could follow through on our original idea to have a staircase that would take the player to another level. We also though of keeping track of how many times the player had reached the goal and making the game more difficult based on their score. The difficulty could be scaled by adding more enemies, generating larger environments, or increasing the attack range of the enemies. Thus, the game could be turned into a high-score based game.
 
 ## Works Cited
-https://github.com/SunnyValleyStudio/Unity_Procedural_Dungeon_binary_space_partitioning/blob/master/Version%201%20generating%20mesh%20for%20roads%20and%20corridors/DugeonGenerator.cs
-We used this tutorial to code the binary search partitioning algorithm.
+[https://github.com/SunnyValleyStudio/Unity_Procedural_Dungeon_binary_space_partitioning/blob/master/Version%201%20generating%20mesh%20for%20roads%20and%20corridors/DugeonGenerator.cshttps://github.com/SunnyValleyStudio/Unity_Procedural_Dungeon_binary_space_partitioning)
+We used this tutorial code as a base for the binary search partitioning algorithm.
 
 https://www.youtube.com/watch?v=f473C43s8nE
-We used this tutorial to create the enemy AI.
+We used this tutorial as a base to create the enemy AI.
 
 https://www.youtube.com/watch?v=L3wKzyIN1yk
 This is the song that plays when the enemies get too close.
