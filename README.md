@@ -29,3 +29,5 @@ We used this tutorial to code the binary search partitioning algorithm.
 
 https://www.youtube.com/watch?v=f473C43s8nE
 We used this tutorial to create the enemy AI.
+
+Included in this website are all of the scripts we used for our game. 
