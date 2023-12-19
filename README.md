@@ -1,6 +1,7 @@
 # Weeks of Pain
 By Muhammad Mahdi, Andrew Minerva, and Graham Smith
 
+[![Full Demo](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)]([https://youtube.com/shorts/lXtx30z4mqE?feature=share](https://youtu.be/W30Y73nG8Gk))
 ## Overview
 We created a game in which a player searches a randomly generated dungeon for a goal. Along the way, enemies will chase the player if they are spotted, and if the player gets too close to an enemy, they will be attacked. 
 
