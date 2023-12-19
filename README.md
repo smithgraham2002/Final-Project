@@ -26,12 +26,15 @@ To expand our project, we could follow through on our original idea to have a st
 
 ## Works Cited
 https://github.com/SunnyValleyStudio/Unity_Procedural_Dungeon_binary_space_partitioning
+
 We used this tutorial code as a base for the binary search partitioning algorithm.
 
 https://www.youtube.com/watch?v=f473C43s8nE
+
 We used this tutorial as a base to create the enemy AI.
 
 https://www.youtube.com/watch?v=L3wKzyIN1yk
+
 This is the song that plays when the enemies get too close.
 
 Included in this website are all of the scripts we used for our game. 
